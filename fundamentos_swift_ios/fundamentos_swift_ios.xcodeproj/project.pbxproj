@@ -23,8 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		DA92CEB92B03C41F004B3034 /* fundamentos_swift_ios */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = fundamentos_swift_ios; path = /Users/lucassandin/projects/apple/dio/desafio_dio_1/fundamentos_swift_ios/build/Debug/fundamentos_swift_ios; sourceTree = "<absolute>"; };
 		DA92CEC42B03C475004B3034 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DA92CEC62B03CA75004B3034 /* fundamentos_swift_ios */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = fundamentos_swift_ios; path = /Users/lucassandin/projects/apple/dio/desafio_dio_1/fundamentos_swift_ios/build/Debug/fundamentos_swift_ios; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			);
 			name = fundamentos_swift_ios;
 			productName = fundamentos_swift_ios;
-			productReference = DA92CEB92B03C41F004B3034 /* fundamentos_swift_ios */;
+			productReference = DA92CEC62B03CA75004B3034 /* fundamentos_swift_ios */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
